@@ -1,0 +1,28 @@
+div.center {
+  margin: auto;
+}
+
+section {
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+article#contact i {
+  font-size: 3em;
+}
+
+.center-container {
+  text-align: center;
+}
+
+a {
+  color: #888;
+}
+
+a:hover {
+  color: #333;
+}
